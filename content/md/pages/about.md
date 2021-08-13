@@ -3,6 +3,4 @@
  :page-index 0
  :navbar? true}
 
-## Write something about something
-
-wow wow wow
+This is just a quick blog setup.
