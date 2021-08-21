@@ -4,8 +4,7 @@
 
 **NOTE**: this blog post is based on [my "Clojure CLI Tools in Debian" GSoC 2021 project Partial Evaluation Report](https://lists.debian.org/debian-clojure/2021/07/msg00000.html).
 
-
-(keep on reading)
+<!--more-->
 
 Hi, everybody!
 
